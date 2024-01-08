@@ -17,7 +17,6 @@ Develop the backend for the E-commerce application to handle product creation, p
 1. **Product Data Model**:
 
    - Create a product schema using Mongoose for storing product data.
-   - The schema should include fields for title, category, description, price and supplier.
    - All fields should be required.
    - Set timestamps for the schema.
 
